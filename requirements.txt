@@ -6,7 +6,7 @@ chardet==3.0.4
 cx-Freeze==5.1.1
 idna==2.8
 lxml==4.3.0
-numpy==1.16.0
+numpy==1.22.0
 pypiwin32==223
 pywin32==224
 requests==2.21.0
